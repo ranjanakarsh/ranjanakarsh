@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**ranjanakarsh/ranjanakarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ranjanakarsh/ranjanakarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appea<img src="koi/koi.gif" width="256" alt="My koi" />rs on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="koi/koi.gif" width="256" alt="My koi" />
