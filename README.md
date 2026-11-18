@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ranjan Akarsh
+
+## Hey, have a koi (i dont like seafood)
+<p align="center">
 <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
